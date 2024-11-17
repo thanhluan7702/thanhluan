@@ -1,0 +1,82 @@
+{
+  "locales": {
+    "en": {
+      "title": "Awards",
+      "title_menu": "Achievements",
+      "title_long_prefix": "Here are my",
+      "title_long": "Career **Achievements**"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "certifications",
+      "component": "ArticleCards",
+      "config": {},
+      "locales": {
+        "en": { "title": "Certifications" }
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-google",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "dates": {
+            "start": null,
+            "end": "07-21-2023"
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "images/pictures/google-DA.png"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "Google Data Analytics",
+              "text": "Certified Data Analytics"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "certifications",
+      "component": "ArticleCards",
+      "config": {},
+      "locales": {
+        "en": { "title": "Awards" }
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-google",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "dates": {
+            "start": null,
+            "end": "07-21-2023"
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "images/pictures/google-DA.png"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "Google Data Analytics",
+              "text": "Certified Data Analytics"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

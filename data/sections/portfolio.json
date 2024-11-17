@@ -1,0 +1,144 @@
+{
+  "locales": {
+    "en": {
+      "title": "Portfolio",
+      "title_long_prefix": "Take a look at",
+      "title_long": "My **Portfolio**"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "portfolio",
+      "component": "ArticlePortfolio",
+      "config": {},
+      "locales": {},
+
+      "categories": [
+        {
+          "id": "finance",
+          "locales": {
+            "en": { "singular": "Finance", "plural": "Finance/Quant" }
+          }
+        },
+        {
+          "id": "ecommerce",
+          "locales": {
+            "en": { "singular": "Ecommerce", "plural": "Ecommerce" }
+          }
+        },
+        {
+          "id": "others",
+          "locales": {
+            "en": { "singular": "Others", "plural": "Others" }
+          }
+        }
+      ],
+
+      "items": [
+        {
+          "categoryId": "finance",
+          "icon": {
+            "img": "images/pictures/project-logo-3.png",
+            "fa": "",
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/optimizeCLV_with_unsupervisedlearning.html"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM",
+            "screenshots": {
+              "aspectRatio": null,
+              "images": []
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "An unsupervised learning approach to the CLV optimization problem",
+
+              "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
+              "tags": ["API", "REST", "Backend"]
+            }
+          }
+        },
+
+        {
+          "categoryId": "finance",
+          "icon": {
+            "img": "images/pictures/project-logo-7.png",
+            "fa": "",
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/fuzzy_clustering.html"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
+            "screenshots": {
+              "aspectRatio": "9:16",
+              "images": [
+                "images/pictures/project-screenshot-1.webp",
+                "images/pictures/project-screenshot-2.webp",
+                "images/pictures/project-screenshot-3.webp",
+                "images/pictures/project-screenshot-4.webp",
+                "images/pictures/project-screenshot-5.webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Introduction to Unsupervised Fuzzy Competitive Learning",
+
+              "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
+              "tags": ["Flutter", "E-mail", "Communication"]
+            }
+          }
+        },
+
+        {
+          "categoryId": "ecommerce",
+          "icon": {
+            "fa": "",
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/time_series_imputation.html"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "16:9",
+              "images": [
+                "images/pictures/project-screenshot-6.png",
+                "images/pictures/project-screenshot-7.png",
+                "images/pictures/project-screenshot-8.png"
+              ]
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Machine learning application – for data imputation problem with time-based data",
+
+              "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
+              "tags": ["React", "Organization", "Notes"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
