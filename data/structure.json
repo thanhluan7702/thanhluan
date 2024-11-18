@@ -36,6 +36,13 @@
     },
 
     {
+      "id": "projects",
+      "categoryId": "showcase",
+      "jsonPath": "/data/sections/project.json",
+      "faIcon": "fa-solid fa-folder-open"
+    },
+
+    {
       "id": "achievements",
       "categoryId": "showcase",
       "jsonPath": "/data/sections/achievements.json",
