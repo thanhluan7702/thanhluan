@@ -59,9 +59,9 @@
             },
             "locales": {
               "en": {
-                "title": "Application of PhoBERT in the Real Estate Attribute Extraction Process - Case Study in Da Nang Market",
+                "title": "Research Thesis: Application of PhoBERT in the Real Estate Attribute Extraction Process - Case Study in Da Nang Market",
   
-                "text": "Combine models and rules for components: spam post classification, information extraction, information normalization. Components applied by the model will be tested on different methods.",
+                "text": "Combine NLP model and rules for components: spam post classification, information extraction, information normalization. Components applied by the model will be tested on different methods (Focal loss, Dice loss, Intrust loss, Data Augmentation)",
                 "tags": []
               }
             }

@@ -37,7 +37,7 @@
 
       "items": [
         {
-          "categoryId": "finance",
+          "categoryId": "ecommerce",
           "icon": {
             "img": "images/pictures/project-logo-3.png",
             "fa": "",
@@ -51,7 +51,7 @@
           ],
 
           "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM",
+            "youtubeVideo": null,
             "screenshots": {
               "aspectRatio": null,
               "images": []
@@ -61,14 +61,14 @@
             "en": {
               "title": "An unsupervised learning approach to the CLV optimization problem",
 
-              "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-              "tags": ["API", "REST", "Backend"]
+              "text": "Apply fuzzy learning based on RFM theory to customer segmentation stage, then use AHP to find weights to calculate CLV score for strategy optimization goal.",
+              "tags": []
             }
           }
         },
 
         {
-          "categoryId": "finance",
+          "categoryId": "others",
           "icon": {
             "img": "images/pictures/project-logo-7.png",
             "fa": "",
@@ -82,15 +82,10 @@
           ],
 
           "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
+            "youtubeVideo": null,
             "screenshots": {
-              "aspectRatio": "9:16",
+              "aspectRatio": null,
               "images": [
-                "images/pictures/project-screenshot-1.webp",
-                "images/pictures/project-screenshot-2.webp",
-                "images/pictures/project-screenshot-3.webp",
-                "images/pictures/project-screenshot-4.webp",
-                "images/pictures/project-screenshot-5.webp"
               ]
             }
           },
@@ -99,14 +94,14 @@
             "en": {
               "title": "Introduction to Unsupervised Fuzzy Competitive Learning",
 
-              "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-              "tags": ["Flutter", "E-mail", "Communication"]
+              "text": "This paper examines Unsupervised Fuzzy Learning and compares it with Traditional Unsupervised Learning.",
+              "tags": []
             }
           }
         },
 
         {
-          "categoryId": "ecommerce",
+          "categoryId": "finance",
           "icon": {
             "fa": "",
             "faColors": { "bg": null, "fill": null }
@@ -121,11 +116,8 @@
           "media": {
             "youtubeVideo": null,
             "screenshots": {
-              "aspectRatio": "16:9",
+              "aspectRatio": null,
               "images": [
-                "images/pictures/project-screenshot-6.png",
-                "images/pictures/project-screenshot-7.png",
-                "images/pictures/project-screenshot-8.png"
               ]
             }
           },
@@ -133,8 +125,8 @@
             "en": {
               "title": "Machine learning application – for data imputation problem with time-based data",
 
-              "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
-              "tags": ["React", "Organization", "Notes"]
+              "text": "Implemented and compared model performance of deep learning, machine learning, hybrid models on time series data computation task",
+              "tags": []
             }
           }
         }
