@@ -51,7 +51,7 @@
           ],
 
           "media": {
-            "youtubeVideo": null,
+            "youtubeVideo": "",
             "screenshots": {
               "aspectRatio": null,
               "images": [
@@ -82,7 +82,7 @@
           ],
 
           "media": {
-            "youtubeVideo": null,
+            "youtubeVideo": "",
             "screenshots": {
               "aspectRatio": null,
               "images": [
@@ -113,7 +113,7 @@
           ],
 
           "media": {
-            "youtubeVideo": null,
+            "youtubeVideo": "",
             "screenshots": {
               "aspectRatio": null,
               "images": [
