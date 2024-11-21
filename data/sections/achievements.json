@@ -14,7 +14,7 @@
       "component": "ArticleCards",
       "config": {},
       "locales": {
-        "en": { "title": "Certifications" }
+        "en": { "title": "Certifications"}
       },
 
       "items": [
@@ -73,6 +73,54 @@
             "en": {
               "title": "TOP 5 Unihack 2023",
               "text": "Google Developer Student Club"
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-regular fa-bookmark",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "dates": {
+            "start": null,
+            "end": "08-23-2022"
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "images/pictures/ecofun.jpg"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "TOP 1 Economics competition",
+              "text": "Ecofun Club"
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-regular fa-bookmark",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "dates": {
+            "start": null,
+            "end": "06-05-2024"
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": null
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "TOP 1 Science Research",
+              "text": "University"
             }
           }
         }
