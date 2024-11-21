@@ -39,7 +39,7 @@
         {
           "categoryId": "ecommerce",
           "icon": {
-            "img": "images/pictures/project-logo-3.png",
+            "img": null,
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
@@ -54,13 +54,13 @@
             "youtubeVideo": null,
             "screenshots": {
               "aspectRatio": null,
-              "images": []
+              "images": [
+              ]
             }
           },
           "locales": {
             "en": {
               "title": "An unsupervised learning approach to the CLV optimization problem",
-
               "text": "Apply fuzzy learning based on RFM theory to customer segmentation stage, then use AHP to find weights to calculate CLV score for strategy optimization goal.",
               "tags": []
             }
@@ -70,7 +70,7 @@
         {
           "categoryId": "others",
           "icon": {
-            "img": "images/pictures/project-logo-7.png",
+            "img": null,
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
@@ -93,7 +93,6 @@
           "locales": {
             "en": {
               "title": "Introduction to Unsupervised Fuzzy Competitive Learning",
-
               "text": "This paper examines Unsupervised Fuzzy Learning and compares it with Traditional Unsupervised Learning.",
               "tags": []
             }
