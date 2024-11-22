@@ -1,0 +1,130 @@
+{
+  "locales": {
+    "en": {
+      "title": "Awards",
+      "title_menu": "Achievements",
+      "title_long_prefix": "Here are my",
+      "title_long": "Career **Achievements**"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "certifications",
+      "component": "ArticleCards",
+      "config": {},
+      "locales": {
+        "en": { "title": "Certifications"}
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-google",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "dates": {
+            "start": null,
+            "end": "07-21-2023"
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "images/pictures/google-DA.png"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "Google Data Analytics",
+              "text": "Certified Data Analytics"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "certifications",
+      "component": "ArticleCards",
+      "config": {},
+      "locales": {
+        "en": { "title": "Awards"}
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-regular fa-bookmark",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "dates": {
+            "start": null,
+            "end": "06-01-2023"
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "images/pictures/unihack.jpg"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "TOP 5 Unihack 2023",
+              "text": "Google Developer Student Club"
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-regular fa-bookmark",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "dates": {
+            "start": null,
+            "end": "08-23-2022"
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": "images/pictures/ecofun.jpg"
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "TOP 1 Economics competition",
+              "text": "Ecofun Club"
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-regular fa-bookmark",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "dates": {
+            "start": null,
+            "end": "06-05-2024"
+          },
+          "links": [
+            {
+              "string": "see_certification",
+              "href": null
+            }
+          ],
+          "locales": {
+            "en": {
+              "title": "TOP 1 Science Research",
+              "text": "University"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

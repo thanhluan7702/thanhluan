@@ -1,0 +1,60 @@
+{
+  "locales": {
+    "en": {
+      "title": "Education",
+      "title_long_prefix": "This is my",
+      "title_long": "**Educational** Background"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "academic",
+      "component": "ArticleTimeline",
+      "config": {},
+      "locales": {},
+
+      "items": [
+        {
+          "icon": {
+            "img": "images/pictures/DH.png",
+            "fa": "",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "dates": {
+            "start": "09/01/2020",
+            "end": "06/01/2024"
+          },
+          "locales": {
+            "en": {
+              "title": "**Bachelor** in Data Science and Business Analytics",
+              "info": "The University of Danang - University of Economics",
+              "text": "Completed the Bachelor's program in Data Science and Business Analytics at the University of Economics, Da Nang, with a curriculum focused on business operations, data analysis, data mining, machine learning, AI, and advanced tools. Graduated as <strong>the top student</strong> in the faculty with a <strong>GPA of 3.7</strong>, along with a high-achieving research thesis and first prize in scientific research.",
+              "tags": []
+            }
+          }
+        }, 
+
+        {
+          "icon": {
+            "img": "images/pictures/enterprise.png",
+            "fa": "",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "dates": {
+            "start": "05/01/2024",
+            "end": "08/01/2024"
+          },
+          "locales": {
+            "en": {
+              "title": "Data Scientist Training Program **(Short-Term)** at enterprise",
+              "info": "Research team at Pi Associatesis",
+              "text": "Developed a combined forecasting model to detect signals in transaction flows, aimed at optimizing trading strategies. Additionally, contributed to reports on momentum/reversal analysis in business performance and reports on the relationships between stocks within groups categorized by Vnindex trends.",
+              "tags": []
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/paracel.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/01/2022",
+                        "end": "08/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data** Scientist",
+                            "info": "Paracel Technology Solutions",
+                            "text": "<p>Project: Business Performance Analysis for Textile Company with Multinational Branches</p> <ul><li>Built a data pipeline to integrate ERP data into the Data Warehouse and Data Mart.</li><li>Offered insights to recommend strategies for inventory and logistics improvements.</li><li>Analyzed and presented inventory distribution issues across warehouses.</li></ul> <p>Project: Vehicle Auction Recommendation System for the Japanese Market.</p> <ul><li>Developed a real-time module for collection, processing, and auction outcome prediction with <strong>0.85</strong> accuracy.</li><li>Reduced data mapping time for the backend <strong>from 5 minutes to 15 seconds</strong> for 2000 cases.</li></ul>",
+                            "tags": ["Python", "Machine Learning", "Selenium", "Postgresql"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/ftech.jpg",
+                        "fa": "",
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "09/01/2023",
+                        "end": "05/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**NLP** Engineer",
+                            "info": "FTECH - AI",
+                            "text": "<ul><li>Implemented NLU processes for VA, collected <strong>40,000 samples</strong> for NER and <strong>5,000</strong> for text classification.</li><li>Enhanced performance with focal loss, in-trust loss, and soft labeling, achieving a <strong>0.9</strong> f1-macro for both tasks.</li><li>Implemented contrastive learning combined with C-means to reduce semantic ambiguity errors in the chatbot.</li></ul>",
+                            "tags": ["Python", "Scraping", "Transformers", "Virtual Assistant", "Natural Language Processing"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/otago.png",
+                        "fa": "",
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "02/01/2024",
+                        "end": "10/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data Analyst** Assistance",
+                            "info": "Otago University - Remote contract",
+                            "text": "<ul><li>Designed a data model to store website log data and researched factors affecting student outcomes.</li><li>Utilized K-means for segmentation based on learning behavior and analyzed the profiles and quality of students.</li><li>Analyzed student performance, needs, and study time to recommend lesson restructuring.</li></ul>",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-building-columns",
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "06/01/2024",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data Scientist**",
+                            "info": "Freelancer",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

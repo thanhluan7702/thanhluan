@@ -1,0 +1,121 @@
+{
+  "locales": {
+    "en": {
+      "title": "Welcome!",
+      "title_menu": "About me",
+      "title_long_prefix": "Hello...",
+      "title_long": "I'm **Thanh Luan!**"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "contact_list",
+      "component": "ArticleGrid",
+      "config": {
+        "ignorePaddingTop": true,
+        "format": "inline"
+      },
+      "locales": {
+        "en": {}
+      },
+
+      "items": [
+        {
+          "value": "Ho Chi Minh/Da Nang City",
+          "links": [{ "href": null }],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-city",
+            "faColors": { "bg": null, "fill": null }
+          }
+        },
+        {
+          "value": "nguynthanhlun",
+          "links": [{ "href": "https://www.kaggle.com/nguynthanhlun" }],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-kaggle",
+            "faColors": { "bg": null, "fill": null }
+          }
+        },
+        {
+          "value": "@thanhluan7702",
+          "links": [{ "href": "https://github.com/thanhluan7702" }],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-github",
+            "faColors": { "bg": null, "fill": null }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "short_description",
+      "component": "ArticleInfoBlock",
+      "config": {},
+      "locales": {
+        "en": { "title": "**A little bit** about me..." }
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": "images/svg/logo.svg",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "text": "<p>Welcome to my website and my nickname is Leon. The trend of learning and researching data in the world or in Vietnam is a trend, but the approach, choosing a domain and research direction is quite vague. Starting out as a Data Science student with an economic background, working in the field of e-commerce and finance, I want to build a small community to share knowledge and experience here. I hope my sharing will approach the problem you are facing.</b>"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "interests",
+      "component": "ArticleGrid",
+      "config": {
+        "format": "grid"
+      },
+      "locales": {
+        "en": { "title": "Domain of **interest**" }
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-arrow-trend-up",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Finance/Quant",
+              "info": "Driven by numbers, inspired by finance."
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-cart-shopping",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Ecomerce",
+              "info": "Understanding customer needs, shaping smarter solutions."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "locales": {
+    "en": {
+      "title": "Research article",
+      "title_long_prefix": "Take a look at",
+      "title_long": "My **Portfolio**"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "portfolio",
+      "component": "ArticlePortfolio",
+      "config": {},
+      "locales": {},
+
+      "categories": [
+        {
+          "id": "finance",
+          "locales": {
+            "en": { "singular": "Finance", "plural": "Finance/Quant" }
+          }
+        },
+        {
+          "id": "ecommerce",
+          "locales": {
+            "en": { "singular": "Ecommerce", "plural": "Ecommerce" }
+          }
+        },
+        {
+          "id": "others",
+          "locales": {
+            "en": { "singular": "Others", "plural": "Others" }
+          }
+        }
+      ],
+
+      "items": [
+        {
+          "categoryId": "ecommerce",
+          "icon": {
+            "img": null,
+            "fa": "",
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/optimizeCLV_with_unsupervisedlearning.html"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": "",
+            "screenshots": {
+              "aspectRatio": null,
+              "images": [
+              ]
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "An unsupervised learning approach to the CLV optimization problem",
+              "text": "Apply fuzzy learning based on RFM theory to customer segmentation stage, then use AHP to find weights to calculate CLV score for strategy optimization goal.",
+              "tags": []
+            }
+          }
+        },
+
+        {
+          "categoryId": "others",
+          "icon": {
+            "img": null,
+            "fa": "",
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/fuzzy_clustering.html"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": "",
+            "screenshots": {
+              "aspectRatio": null,
+              "images": [
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Introduction to Unsupervised Fuzzy Competitive Learning",
+              "text": "This paper examines Unsupervised Fuzzy Learning and compares it with Traditional Unsupervised Learning.",
+              "tags": []
+            }
+          }
+        },
+
+        {
+          "categoryId": "finance",
+          "icon": {
+            "fa": "",
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "href": "https://thanhluan7702.github.io/luannt/research/time_series_imputation.html"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": "",
+            "screenshots": {
+              "aspectRatio": null,
+              "images": [
+              ]
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Machine learning application – for data imputation problem with time-based data",
+
+              "text": "Implemented and compared model performance of deep learning, machine learning, hybrid models on time series data computation task",
+              "tags": []
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
