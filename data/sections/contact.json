@@ -57,19 +57,6 @@
         },
 
         {
-          "value": "@thanhluan7702",
-          "links": [{ "href": "https://www.linkedin.com/in/thanhluan7702/" }],
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-linkedin",
-            "faColors": { "bg": null, "fill": null }
-          },
-          "locales": {
-            "en": { "title": "Linkedin" }
-          }
-        },
-
-        {
           "value": "Thanh Luan",
           "links": [{ "href": "https://www.facebook.com/Luan1312/" }],
           "icon": {

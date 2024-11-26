@@ -22,11 +22,11 @@
 
       "items": [
         {
-          "value": "Ho Chi Minh/Da Nang City",
-          "links": [{ "href": null }],
+          "value": "thanhluan7702",
+          "links": [{ "href": "https://www.linkedin.com/in/thanhluan7702/" }],
           "icon": {
             "img": null,
-            "fa": "fa-solid fa-city",
+            "fa": "fa-brands fa-linkedin",
             "faColors": { "bg": null, "fill": null }
           }
         },
@@ -40,7 +40,7 @@
           }
         },
         {
-          "value": "@thanhluan7702",
+          "value": "thanhluan7702",
           "links": [{ "href": "https://github.com/thanhluan7702" }],
           "icon": {
             "img": null,
@@ -68,7 +68,7 @@
           },
           "locales": {
             "en": {
-              "text": "<p>Welcome to my website and my nickname is Leon. The trend of learning and researching data in the world or in Vietnam is a trend, but the approach, choosing a domain and research direction is quite vague. Starting out as a Data Science student with an economic background, working in the field of e-commerce and finance, I want to build a small community to share knowledge and experience here. I hope my sharing will approach the problem you are facing.</b>"
+              "text": "<p>Welcome to my website and my nickname is Leon. The rising trend of data learning and research both globally and in Vietnam is undeniable, but the approach, choosing a domain and research direction is quite vague. Starting out as a Data Science student with an economic background, working in the field of e-commerce and finance, I want to build a small community to share knowledge and experience here. I hope my sharing will approach the problem you are facing.</b>"
             }
           }
         }
