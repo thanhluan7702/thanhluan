@@ -37,37 +37,6 @@
 
       "items": [
         {
-          "categoryId": "ecommerce",
-          "icon": {
-            "img": null,
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
-          },
-
-          "links": [
-            {
-              "href": "images/pictures/125942586.pdf"
-            }
-          ],
-
-          "media": {
-            "youtubeVideo": "",
-            "screenshots": {
-              "aspectRatio": null,
-              "images": [
-              ]
-            }
-          },
-          "locales": {
-            "en": {
-              "title": "An unsupervised learning approach to the CLV optimization problem",
-              "text": "Apply fuzzy learning based on RFM theory to customer segmentation stage, then use AHP to find weights to calculate CLV score for strategy optimization goal.",
-              "tags": []
-            }
-          }
-        },
-
-        {
           "categoryId": "others",
           "icon": {
             "img": null,
@@ -77,7 +46,7 @@
 
           "links": [
             {
-              "href": "https://thanhluan7702.github.io/luannt/research/fuzzy_clustering.html"
+              "href": "images/pictures/INTRODUCTION TO FUZZY CLUSTERING.pdf"
             }
           ],
 
@@ -108,7 +77,7 @@
 
           "links": [
             {
-              "href": "https://thanhluan7702.github.io/luannt/research/time_series_imputation.html"
+              "href": "images/pictures/APPLICATION OF MACHINE LEARNING MODELS TO SOLVE THE PROBLEM OF UNIVARIATE TIME SERIES DATA IMPUTATION.pdf"
             }
           ],
 
