@@ -85,7 +85,7 @@
                     "locales": {
                         "en": {
                             "title": "**Data Scientist**",
-                            "info": "BlueCore",
+                            "info": "",
                             "text": "<ul><li>Contributed to developing a data warehouse that consolidates data from multiple sources and designed specialized data marts tailored to departmental needs.</li><li>Optimized the customer return prediction process by campaign, achieving a revenue-to-cost ratio of at least 25x and up to 119x.</li><li>Built models for sentiment analysis based on post-purchase feedback, inventory sharing across stores, and sales forecasting by product and trend analysis.</li></ul>",
                             "tags": []
                         }
