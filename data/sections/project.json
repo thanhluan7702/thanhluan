@@ -64,6 +64,36 @@
                 "tags": []
               }
             }
+          },
+
+          {
+            "categoryId": "ecommerce",
+            "icon": {
+              "img": "",
+              "fa": "",
+              "faColors": { "bg": null, "fill": null }
+            },
+  
+            "links": [
+              {
+                "href": "images/pictures/IMPROVING CUSTOMER LOYALTY OF A VIETNAMESE FASHION BRAND BASED ON CLV.pdf"
+              }
+            ],
+  
+            "media": {
+              "youtubeVideo": "",
+              "screenshots": {
+                "aspectRatio": null,
+                "images": []
+              }
+            },
+            "locales": {
+              "en": {
+                "title": "IMPROVING CUSTOMER LOYALTY OF A VIETNAMESE FASHION BRAND BASED ON CLV",
+                "text": "In this report, I have outlined a method for customer segmentation using unsupervised learning algorithms, combined with hierarchical analysis, to identify customer lifetime value (CLV) and assign descriptive names to each cluster. I also highlighted the challenges and opportunities the business is facing through a flowchart illustrating customer segment transitions.",
+                "tags": []
+              }
+            }
           }
         ]
       }
